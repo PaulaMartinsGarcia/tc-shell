@@ -1,2 +1,2 @@
 #!/bin/bash
-echo PATH=$PATH:tr | "wc -l"
+echo tr | ls | wc -l
