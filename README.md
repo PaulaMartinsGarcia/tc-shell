@@ -1,2 +1,2 @@
 # tc-shell
-scripts bootcamp
+scrip cria um alias
