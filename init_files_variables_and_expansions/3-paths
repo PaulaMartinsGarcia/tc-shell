@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tr | ls | wc -l
+echo tr | ls -l | wc -l
